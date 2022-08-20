@@ -1,0 +1,43 @@
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\Object Sound Recognition.exe.config
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\Object Sound Recognition.exe
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\Object Sound Recognition.pdb
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Docking.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\Microsoft.Win32.Registry.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\NAudio.Asio.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\NAudio.Core.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\NAudio.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\NAudio.Midi.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\NAudio.Wasapi.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\NAudio.WinForms.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\NAudio.WinMM.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ScottPlot.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ScottPlot.WinForms.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\System.Security.AccessControl.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\System.Security.Principal.Windows.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\System.ValueTuple.dll
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\Microsoft.Win32.Registry.xml
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\NAudio.xml
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ScottPlot.pdb
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ScottPlot.xml
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\ScottPlot.WinForms.pdb
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\System.Security.AccessControl.xml
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\System.Security.Principal.Windows.xml
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\bin\Debug\TahirCCreativeControls.pdb
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\obj\Debug\Object Sound Recognition.csproj.AssemblyReference.cache
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\obj\Debug\Object Sound Recognition.csproj.SuggestedBindingRedirects.cache
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\obj\Debug\Object_Sound_Recognition.Form1.resources
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\obj\Debug\Object_Sound_Recognition.Properties.Resources.resources
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\obj\Debug\Object Sound Recognition.csproj.GenerateResource.cache
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\obj\Debug\Object Sound Recognition.csproj.CoreCompileInputs.cache
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\obj\Debug\Object Sound Recognition.csproj.CopyComplete
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\obj\Debug\Object Sound Recognition.exe
+G:\Software Engineering Degree\Semester 7\Object Sound Recognition\Object Sound Recognition\obj\Debug\Object Sound Recognition.pdb
